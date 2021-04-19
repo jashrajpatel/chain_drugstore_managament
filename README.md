@@ -1,5 +1,5 @@
 # chain_drugstore_managament
-Name: Jashraj Patel 
+<h1> Name: Jashraj Patel</h1> 
 Class: A3
 Course: Computers
 Faculty name: Vaibhav Vasani
