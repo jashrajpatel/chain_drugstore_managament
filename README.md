@@ -4,3 +4,4 @@ Class: A3
 Course: Computers
 Faculty name: Vaibhav Vasani
 College name: K. J. Somaiya College of Enginnering
+Instructions to execute code
