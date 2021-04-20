@@ -7,4 +7,4 @@ College name: K. J. Somaiya College of Enginnering
 Instructions to execute code:
 Sir I have attached .sql files for the tables so they can run directly on mysql.
 Due to some reason if they dont I have also attached a word file with all the commands and their output.
-The ER disgram and Relational schema is also attached in the word file.
+The ER diagram and Relational schema is also attached in the word file.
